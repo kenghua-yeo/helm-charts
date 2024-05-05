@@ -1,4 +1,4 @@
-# Gerk Elznik Personal Helm Charts
+# Personal Helm Charts
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![CI Quality Gates](https://github.com/gerkelznik/helm-charts/workflows/Lint%20and%20Test%20Charts/badge.svg) ![Release Charts](https://github.com/gerkelznik/helm-charts/workflows/Release%20Charts/badge.svg?branch=main) [![Chart Downloads](https://img.shields.io/github/downloads/gerkelznik/helm-charts/total.svg)](https://github.com/gerkelznik/helm-charts/releases)
 
