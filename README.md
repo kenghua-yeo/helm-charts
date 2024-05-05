@@ -10,23 +10,12 @@ Please refer to Helm's [documentation](https://helm.sh/docs/) to get started.
 Once Helm is set up properly, add the repo as follows:
 
 ```console
-helm repo add gerkelznik https://gerkelznik.github.io/helm-charts
+helm repo add kenghua-yeo https://kenghua-yeo.github.io/helm-charts
 ```
 
 If you had already added this repo earlier, run `helm repo update` to retrieve the latest versions of the packages.
 
-You can then run `helm search repo gerkelznik` to see the charts.
-
-## Contributing
-
-The source code of all Gerk Elznik personal Helm charts can be found on GitHub: https://github.com/gerkelznik/helm-charts/charts
-
-## License
+You can then run `helm search repo kenghua-yeo` to see the charts.
 
 <!-- Keep full URL links to repo files because this README syncs from main to gh-pages.  -->
 [Apache 2.0 License](https://github.com/gerkelznik/helm-charts/blob/main/LICENSE).
-
-## Build Your Own
-https://medium.com/@gerkElznik/provision-a-free-personal-helm-chart-repo-using-github-583b668d9ba4
-
-> ☝️ Blog explaining how this repo was constructed
